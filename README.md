@@ -1,6 +1,6 @@
 # React Learning Path
 
-These are all the projects I took to learn React while taking the 
+These are all the projects I did to learn React while taking the 
 [Maximilian Schwarzmüller's course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) on the matter. I loved every second of it, and I cannot recommend this course enough. It is well detailed, well explained and has a lot of practicing to really understand the concepts. Thanks Max!
 
 ## Projects
